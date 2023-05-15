@@ -1,0 +1,2 @@
+# ScrollDisabledApplication
+親子関係のScrollViewテスト
